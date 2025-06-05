@@ -1,3 +1,3 @@
----
-title: Welcome to my blog!
----
+# Here is  blog featuring all things cran
+
+Am I so out of touch? No, it is the children who are wrong
