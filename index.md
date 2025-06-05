@@ -8,6 +8,6 @@ Am I so out of touch? No, it is the children who are wrong
 
 I love thinking about the Maslov index.
 
-### I also love dogs and cats.
+## I also love dogs and cats.
 
 Woof. Meow.
